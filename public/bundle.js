@@ -29957,6 +29957,10 @@ var _MainHeader = __webpack_require__(10);
 
 var _MainHeader2 = _interopRequireDefault(_MainHeader);
 
+var _MultiMenu = __webpack_require__(127);
+
+var _MultiMenu2 = _interopRequireDefault(_MultiMenu);
+
 var _reactRouterDom = __webpack_require__(13);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
@@ -29986,2240 +29990,7 @@ var DetailProduct = function (_React$Component) {
         _react2.default.createElement(
           'div',
           { id: 'main', className: 'row' },
-          _react2.default.createElement(
-            'div',
-            { className: 'hows' },
-            _react2.default.createElement(
-              'div',
-              { className: 'col-md' },
-              _react2.default.createElement(
-                'div',
-                { className: 'list' },
-                _react2.default.createElement(
-                  'div',
-                  { className: 'title-list' },
-                  _react2.default.createElement(
-                    'a',
-                    { href: '#' },
-                    'T\u1EA5t c\u1EA3 danh m\u1EE5c'
-                  )
-                ),
-                _react2.default.createElement(
-                  'div',
-                  { className: 'menu-popup menu-dropdown' },
-                  _react2.default.createElement(
-                    'ul',
-                    null,
-                    _react2.default.createElement(
-                      'li',
-                      null,
-                      _react2.default.createElement(
-                        'a',
-                        { href: '#' },
-                        _react2.default.createElement(
-                          'h4',
-                          null,
-                          _react2.default.createElement(
-                            _reactRouterDom.Link,
-                            { to: 'xu-nghe' },
-                            'L\xE0m \u0111\u1EB9p'
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'h5',
-                          null,
-                          'M\u1EF9 ph\u1EA9m ...'
-                        )
-                      ),
-                      _react2.default.createElement(
-                        'div',
-                        { className: 'menu-dropdown-sub' },
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { id: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'Th\u01B0\u01A1ng hi\u1EC7u'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'banner-menu' },
-                          _react2.default.createElement(
-                            'a',
-                            { href: true },
-                            _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
-                          )
-                        )
-                      )
-                    ),
-                    _react2.default.createElement(
-                      'li',
-                      null,
-                      _react2.default.createElement(
-                        'a',
-                        { href: '#' },
-                        _react2.default.createElement(
-                          'h4',
-                          null,
-                          'S\u1EE9c kh\u1ECFe'
-                        ),
-                        _react2.default.createElement(
-                          'h5',
-                          null,
-                          'Th\u1EF1c ph\u1EA9m ch\u1EE9c n\u0103ng ...'
-                        )
-                      ),
-                      _react2.default.createElement(
-                        'div',
-                        { className: 'menu-dropdown-sub' },
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { id: 'scroll-1', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1, height: '178.571px' } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'Th\u01B0\u01A1ng hi\u1EC7u'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1, height: '234.375px' } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'banner-menu' },
-                          _react2.default.createElement(
-                            'a',
-                            { href: true },
-                            _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
-                          )
-                        )
-                      )
-                    ),
-                    _react2.default.createElement(
-                      'li',
-                      null,
-                      _react2.default.createElement(
-                        'a',
-                        { href: '#' },
-                        _react2.default.createElement(
-                          'h4',
-                          null,
-                          'Th\u1EC3 thao'
-                        ),
-                        _react2.default.createElement(
-                          'h5',
-                          null,
-                          'Gi\u1EA7y \u0111\xE1 b\xF3ng, v\u1EE3t tennis ...'
-                        )
-                      ),
-                      _react2.default.createElement(
-                        'div',
-                        { className: 'menu-dropdown-sub' },
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { id: 'scroll-2', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'Th\u01B0\u01A1ng hi\u1EC7u'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'banner-menu' },
-                          _react2.default.createElement(
-                            'a',
-                            { href: true },
-                            _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
-                          )
-                        )
-                      )
-                    ),
-                    _react2.default.createElement(
-                      'li',
-                      null,
-                      _react2.default.createElement(
-                        'a',
-                        { href: '#' },
-                        _react2.default.createElement(
-                          'h4',
-                          null,
-                          'Gia d\u1EE5ng'
-                        ),
-                        _react2.default.createElement(
-                          'h5',
-                          null,
-                          'B\u1EBFp, t\u1EE7 ...'
-                        )
-                      ),
-                      _react2.default.createElement(
-                        'div',
-                        { className: 'menu-dropdown-sub' },
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { id: 'scroll-3', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'Th\u01B0\u01A1ng hi\u1EC7u'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'banner-menu' },
-                          _react2.default.createElement(
-                            'a',
-                            { href: true },
-                            _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
-                          )
-                        )
-                      )
-                    ),
-                    _react2.default.createElement(
-                      'li',
-                      null,
-                      _react2.default.createElement(
-                        'a',
-                        { href: '#' },
-                        _react2.default.createElement(
-                          'h4',
-                          null,
-                          'Thi\u1EBFt b\u1ECB v\u0103n ph\xF2ng'
-                        ),
-                        _react2.default.createElement(
-                          'h5',
-                          null,
-                          'M\xE1y t\xEDnh, m\xE1y in...'
-                        )
-                      ),
-                      _react2.default.createElement(
-                        'div',
-                        { className: 'menu-dropdown-sub' },
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { id: 'scroll-4', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'Th\u01B0\u01A1ng hi\u1EC7u'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'banner-menu' },
-                          _react2.default.createElement(
-                            'a',
-                            { href: true },
-                            _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
-                          )
-                        )
-                      )
-                    ),
-                    _react2.default.createElement(
-                      'li',
-                      null,
-                      _react2.default.createElement(
-                        'a',
-                        { href: '#' },
-                        _react2.default.createElement(
-                          'h4',
-                          null,
-                          'Tr\u1EBB em'
-                        ),
-                        _react2.default.createElement(
-                          'h5',
-                          null,
-                          'Lego, ...'
-                        )
-                      ),
-                      _react2.default.createElement(
-                        'div',
-                        { className: 'menu-dropdown-sub' },
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { id: 'scroll-5', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'Th\u01B0\u01A1ng hi\u1EC7u'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'banner-menu' },
-                          _react2.default.createElement(
-                            'a',
-                            { href: true },
-                            _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
-                          )
-                        )
-                      )
-                    ),
-                    _react2.default.createElement(
-                      'li',
-                      null,
-                      _react2.default.createElement(
-                        'a',
-                        { href: '#' },
-                        _react2.default.createElement(
-                          'h4',
-                          null,
-                          'T\u1EA5t c\u1EA3 danh m\u1EE5c'
-                        )
-                      ),
-                      _react2.default.createElement(
-                        'div',
-                        { className: 'menu-dropdown-sub' },
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { id: 'scroll-6', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'CD, DVD, HDD, MO Driver'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'M\xE1y t\xEDnh b\u1EA3ng'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Macbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Netbook'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh ki\u1EC7n server'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n laptop'
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    'Linh, ph\u1EE5 ki\u1EC7n destop'
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'col-ms menu-sub' },
-                          _react2.default.createElement(
-                            'span',
-                            null,
-                            'Th\u01B0\u01A1ng hi\u1EC7u'
-                          ),
-                          _react2.default.createElement(
-                            'div',
-                            { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
-                            _react2.default.createElement(
-                              'div',
-                              { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
-                              _react2.default.createElement(
-                                'ul',
-                                { className: 'menu-sub-ul' },
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
-                                  )
-                                ),
-                                _react2.default.createElement(
-                                  'li',
-                                  null,
-                                  _react2.default.createElement(
-                                    'a',
-                                    { href: true },
-                                    _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
-                                  )
-                                )
-                              )
-                            ),
-                            _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                            _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
-                          )
-                        ),
-                        _react2.default.createElement(
-                          'div',
-                          { className: 'banner-menu' },
-                          _react2.default.createElement(
-                            'a',
-                            { href: true },
-                            _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            ),
-            _react2.default.createElement(
-              'div',
-              { className: 'col-970' },
-              _react2.default.createElement(
-                'div',
-                { className: 'nav-menu' },
-                _react2.default.createElement(
-                  'a',
-                  { href: true },
-                  'Trang ch\u1EE7'
-                ),
-                _react2.default.createElement(
-                  'span',
-                  null,
-                  '\xBB L\xE0m \u0111\u1EB9p'
-                ),
-                _react2.default.createElement(
-                  'span',
-                  null,
-                  '\xBB Th\u1EDDi trang n\u1EEF'
-                ),
-                _react2.default.createElement(
-                  'span',
-                  null,
-                  '\xBB \xC1o s\u01A1 mi c\xF4ng s\u1EDF'
-                )
-              )
-            ),
-            _react2.default.createElement('div', { className: 'clearfix' })
-          ),
+          _react2.default.createElement(_MultiMenu2.default, null),
           _react2.default.createElement(
             'div',
             { className: 'bg-box' },
@@ -33975,6 +31746,8 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
+var _reactRouterDom = __webpack_require__(13);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -33993,2200 +31766,2220 @@ var MultiMenu = function (_React$Component) {
   }
 
   _createClass(MultiMenu, [{
-    key: "render",
+    key: 'render',
     value: function render() {
       return _react2.default.createElement(
-        "div",
-        { className: "hows" },
+        'div',
+        { className: 'hows' },
         _react2.default.createElement(
-          "div",
-          { className: "col-md" },
+          'div',
+          { className: 'col-md' },
           _react2.default.createElement(
-            "div",
-            { className: "list" },
+            'div',
+            { className: 'list' },
             _react2.default.createElement(
-              "div",
-              { className: "title-list" },
+              'div',
+              { className: 'title-list' },
               _react2.default.createElement(
-                "a",
-                { href: "#" },
-                "T\u1EA5t c\u1EA3 danh m\u1EE5c"
+                'a',
+                { href: '#' },
+                'T\u1EA5t c\u1EA3 danh m\u1EE5c'
               )
             ),
             _react2.default.createElement(
-              "div",
-              { className: "menu-popup menu-dropdown" },
+              'div',
+              { className: 'menu-popup menu-dropdown' },
               _react2.default.createElement(
-                "ul",
+                'ul',
                 null,
                 _react2.default.createElement(
-                  "li",
+                  'li',
                   null,
                   _react2.default.createElement(
-                    "a",
-                    { href: "#" },
+                    'a',
+                    { href: '#' },
                     _react2.default.createElement(
-                      "h4",
+                      'h4',
                       null,
-                      "L\xE0m \u0111\u1EB9p"
+                      _react2.default.createElement(
+                        _reactRouterDom.Link,
+                        { to: '/xu-nghe' },
+                        'Trang ch\u1EE7'
+                      )
                     ),
                     _react2.default.createElement(
-                      "h5",
+                      'h5',
                       null,
-                      "M\u1EF9 ph\u1EA9m ..."
+                      'M\u1EF9 ph\u1EA9m ...'
                     )
                   ),
                   _react2.default.createElement(
-                    "div",
-                    { className: "menu-dropdown-sub" },
+                    'div',
+                    { className: 'menu-dropdown-sub' },
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "M\xE1y t\xEDnh v\xE0 m\u1EA1ng"
+                        'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { id: "scroll", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { id: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "Th\u01B0\u01A1ng hi\u1EC7u"
+                        'Th\u01B0\u01A1ng hi\u1EC7u'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { className: "scroll", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "banner-menu" },
+                      'div',
+                      { className: 'banner-menu' },
                       _react2.default.createElement(
-                        "a",
+                        'a',
                         { href: true },
-                        _react2.default.createElement("img", { src: "images/adv/banner-menu.png" })
+                        _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
                       )
                     )
                   )
                 ),
                 _react2.default.createElement(
-                  "li",
+                  'li',
                   null,
                   _react2.default.createElement(
-                    "a",
-                    { href: "#" },
+                    'a',
+                    { href: '#' },
                     _react2.default.createElement(
-                      "h4",
+                      'h4',
                       null,
-                      "S\u1EE9c kh\u1ECFe"
+                      _react2.default.createElement(
+                        _reactRouterDom.Link,
+                        { to: '/tin-tuc' },
+                        'Tin t\u1EE9c'
+                      )
                     ),
                     _react2.default.createElement(
-                      "h5",
+                      'h5',
                       null,
-                      "Th\u1EF1c ph\u1EA9m ch\u1EE9c n\u0103ng ..."
+                      'Th\u1EF1c ph\u1EA9m ch\u1EE9c n\u0103ng ...'
                     )
                   ),
                   _react2.default.createElement(
-                    "div",
-                    { className: "menu-dropdown-sub" },
+                    'div',
+                    { className: 'menu-dropdown-sub' },
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "M\xE1y t\xEDnh v\xE0 m\u1EA1ng"
+                        'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { id: "scroll-1", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { id: 'scroll-1', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "Th\u01B0\u01A1ng hi\u1EC7u"
+                        'Th\u01B0\u01A1ng hi\u1EC7u'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { className: "scroll", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "banner-menu" },
+                      'div',
+                      { className: 'banner-menu' },
                       _react2.default.createElement(
-                        "a",
+                        'a',
                         { href: true },
-                        _react2.default.createElement("img", { src: "images/adv/banner-menu.png" })
+                        _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
                       )
                     )
                   )
                 ),
                 _react2.default.createElement(
-                  "li",
+                  'li',
                   null,
                   _react2.default.createElement(
-                    "a",
-                    { href: "#" },
+                    'a',
+                    { href: '#' },
                     _react2.default.createElement(
-                      "h4",
+                      'h4',
                       null,
-                      "Th\u1EC3 thao"
+                      _react2.default.createElement(
+                        _reactRouterDom.Link,
+                        { to: '/chi-tiet-san-pham' },
+                        'chi ti\u1EBFt s\u1EA3n ph\u1EA9m'
+                      )
                     ),
                     _react2.default.createElement(
-                      "h5",
+                      'h5',
                       null,
-                      "Gi\u1EA7y \u0111\xE1 b\xF3ng, v\u1EE3t tennis ..."
+                      'Gi\u1EA7y \u0111\xE1 b\xF3ng, v\u1EE3t tennis ...'
                     )
                   ),
                   _react2.default.createElement(
-                    "div",
-                    { className: "menu-dropdown-sub" },
+                    'div',
+                    { className: 'menu-dropdown-sub' },
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "M\xE1y t\xEDnh v\xE0 m\u1EA1ng"
+                        'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { id: "scroll-2", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { id: 'scroll-2', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "Th\u01B0\u01A1ng hi\u1EC7u"
+                        'Th\u01B0\u01A1ng hi\u1EC7u'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { className: "scroll", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "banner-menu" },
+                      'div',
+                      { className: 'banner-menu' },
                       _react2.default.createElement(
-                        "a",
+                        'a',
                         { href: true },
-                        _react2.default.createElement("img", { src: "images/adv/banner-menu.png" })
+                        _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
                       )
                     )
                   )
                 ),
                 _react2.default.createElement(
-                  "li",
+                  'li',
                   null,
                   _react2.default.createElement(
-                    "a",
-                    { href: "#" },
+                    'a',
+                    { href: '#' },
                     _react2.default.createElement(
-                      "h4",
+                      'h4',
                       null,
-                      "Gia d\u1EE5ng"
+                      _react2.default.createElement(
+                        _reactRouterDom.Link,
+                        { to: '/thong-tin-chi-tiet' },
+                        'Th\xF4ng tin chi ti\u1EBFt'
+                      )
                     ),
                     _react2.default.createElement(
-                      "h5",
+                      'h5',
                       null,
-                      "B\u1EBFp, t\u1EE7 ..."
+                      'B\u1EBFp, t\u1EE7 ...'
                     )
                   ),
                   _react2.default.createElement(
-                    "div",
-                    { className: "menu-dropdown-sub" },
+                    'div',
+                    { className: 'menu-dropdown-sub' },
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "M\xE1y t\xEDnh v\xE0 m\u1EA1ng"
+                        'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { id: "scroll-3", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { id: 'scroll-3', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "Th\u01B0\u01A1ng hi\u1EC7u"
+                        'Th\u01B0\u01A1ng hi\u1EC7u'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { className: "scroll", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "banner-menu" },
+                      'div',
+                      { className: 'banner-menu' },
                       _react2.default.createElement(
-                        "a",
+                        'a',
                         { href: true },
-                        _react2.default.createElement("img", { src: "images/adv/banner-menu.png" })
+                        _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
                       )
                     )
                   )
                 ),
                 _react2.default.createElement(
-                  "li",
+                  'li',
                   null,
                   _react2.default.createElement(
-                    "a",
-                    { href: "#" },
+                    'a',
+                    { href: '#' },
                     _react2.default.createElement(
-                      "h4",
+                      'h4',
                       null,
-                      "Thi\u1EBFt b\u1ECB v\u0103n ph\xF2ng"
+                      _react2.default.createElement(
+                        _reactRouterDom.Link,
+                        { to: '/lien-he' },
+                        'Li\xEAn h\u1EC7'
+                      )
                     ),
                     _react2.default.createElement(
-                      "h5",
+                      'h5',
                       null,
-                      "M\xE1y t\xEDnh, m\xE1y in..."
+                      'M\xE1y t\xEDnh, m\xE1y in...'
                     )
                   ),
                   _react2.default.createElement(
-                    "div",
-                    { className: "menu-dropdown-sub" },
+                    'div',
+                    { className: 'menu-dropdown-sub' },
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "M\xE1y t\xEDnh v\xE0 m\u1EA1ng"
+                        'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { id: "scroll-4", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { id: 'scroll-4', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "Th\u01B0\u01A1ng hi\u1EC7u"
+                        'Th\u01B0\u01A1ng hi\u1EC7u'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { className: "scroll", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "banner-menu" },
+                      'div',
+                      { className: 'banner-menu' },
                       _react2.default.createElement(
-                        "a",
+                        'a',
                         { href: true },
-                        _react2.default.createElement("img", { src: "images/adv/banner-menu.png" })
+                        _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
                       )
                     )
                   )
                 ),
                 _react2.default.createElement(
-                  "li",
+                  'li',
                   null,
                   _react2.default.createElement(
-                    "a",
-                    { href: "#" },
+                    'a',
+                    { href: '#' },
                     _react2.default.createElement(
-                      "h4",
+                      'h4',
                       null,
-                      "Tr\u1EBB em"
+                      'Tr\u1EBB em'
                     ),
                     _react2.default.createElement(
-                      "h5",
+                      'h5',
                       null,
-                      "Lego, ..."
+                      'Lego, ...'
                     )
                   ),
                   _react2.default.createElement(
-                    "div",
-                    { className: "menu-dropdown-sub" },
+                    'div',
+                    { className: 'menu-dropdown-sub' },
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "M\xE1y t\xEDnh v\xE0 m\u1EA1ng"
+                        'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { id: "scroll-5", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { id: 'scroll-5', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "Th\u01B0\u01A1ng hi\u1EC7u"
+                        'Th\u01B0\u01A1ng hi\u1EC7u'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { className: "scroll", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "banner-menu" },
+                      'div',
+                      { className: 'banner-menu' },
                       _react2.default.createElement(
-                        "a",
+                        'a',
                         { href: true },
-                        _react2.default.createElement("img", { src: "images/adv/banner-menu.png" })
+                        _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
                       )
                     )
                   )
                 ),
                 _react2.default.createElement(
-                  "li",
+                  'li',
                   null,
                   _react2.default.createElement(
-                    "a",
-                    { href: "#" },
+                    'a',
+                    { href: '#' },
                     _react2.default.createElement(
-                      "h4",
+                      'h4',
                       null,
-                      "T\u1EA5t c\u1EA3 danh m\u1EE5c"
+                      'T\u1EA5t c\u1EA3 danh m\u1EE5c'
                     )
                   ),
                   _react2.default.createElement(
-                    "div",
-                    { className: "menu-dropdown-sub" },
+                    'div',
+                    { className: 'menu-dropdown-sub' },
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "M\xE1y t\xEDnh v\xE0 m\u1EA1ng"
+                        'M\xE1y t\xEDnh v\xE0 m\u1EA1ng'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { id: "scroll-6", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { id: 'scroll-6', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng"
+                                'Ph\u1EE5 ki\u1EC7n m\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "CD, DVD, HDD, MO Driver"
+                                'CD, DVD, HDD, MO Driver'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Laptop"
+                                'Laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "M\xE1y t\xEDnh b\u1EA3ng"
+                                'M\xE1y t\xEDnh b\u1EA3ng'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Macbook"
+                                'Macbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Netbook"
+                                'Netbook'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh ki\u1EC7n server"
+                                'Linh ki\u1EC7n server'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n laptop"
+                                'Linh, ph\u1EE5 ki\u1EC7n laptop'
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                "Linh, ph\u1EE5 ki\u1EC7n destop"
+                                'Linh, ph\u1EE5 ki\u1EC7n destop'
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "col-ms menu-sub" },
+                      'div',
+                      { className: 'col-ms menu-sub' },
                       _react2.default.createElement(
-                        "span",
+                        'span',
                         null,
-                        "Th\u01B0\u01A1ng hi\u1EC7u"
+                        'Th\u01B0\u01A1ng hi\u1EC7u'
                       ),
                       _react2.default.createElement(
-                        "div",
-                        { className: "slimScrollDiv", style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
+                        'div',
+                        { className: 'slimScrollDiv', style: { position: 'relative', overflow: 'hidden', width: '99%', height: 300 } },
                         _react2.default.createElement(
-                          "div",
-                          { className: "scroll", style: { overflow: 'hidden', width: '99%', height: 300 } },
+                          'div',
+                          { className: 'scroll', style: { overflow: 'hidden', width: '99%', height: 300 } },
                           _react2.default.createElement(
-                            "ul",
-                            { className: "menu-sub-ul" },
+                            'ul',
+                            { className: 'menu-sub-ul' },
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th1.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th1.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th2.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th2.png' })
                               )
                             ),
                             _react2.default.createElement(
-                              "li",
+                              'li',
                               null,
                               _react2.default.createElement(
-                                "a",
+                                'a',
                                 { href: true },
-                                _react2.default.createElement("img", { src: "images/adv/logo-th3.png" })
+                                _react2.default.createElement('img', { src: 'images/adv/logo-th3.png' })
                               )
                             )
                           )
                         ),
-                        _react2.default.createElement("div", { className: "slimScrollBar ui-draggable", style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
-                        _react2.default.createElement("div", { className: "slimScrollRail", style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
+                        _react2.default.createElement('div', { className: 'slimScrollBar ui-draggable', style: { background: 'rgb(215, 215, 215)', width: 5, position: 'absolute', top: 0, opacity: 1, display: 'block', borderRadius: 5, zIndex: 99, right: 1 } }),
+                        _react2.default.createElement('div', { className: 'slimScrollRail', style: { width: 5, height: '100%', position: 'absolute', top: 0, display: 'block', borderRadius: 5, background: 'rgb(204, 204, 204)', opacity: '0.2', zIndex: 90, right: 1 } })
                       )
                     ),
                     _react2.default.createElement(
-                      "div",
-                      { className: "banner-menu" },
+                      'div',
+                      { className: 'banner-menu' },
                       _react2.default.createElement(
-                        "a",
+                        'a',
                         { href: true },
-                        _react2.default.createElement("img", { src: "images/adv/banner-menu.png" })
+                        _react2.default.createElement('img', { src: 'images/adv/banner-menu.png' })
                       )
                     )
                   )
@@ -36196,24 +33989,24 @@ var MultiMenu = function (_React$Component) {
           )
         ),
         _react2.default.createElement(
-          "div",
-          { className: "col-970" },
+          'div',
+          { className: 'col-970' },
           _react2.default.createElement(
-            "div",
-            { className: "nav-menu" },
+            'div',
+            { className: 'nav-menu' },
             _react2.default.createElement(
-              "a",
+              'a',
               { href: true },
-              "Trang ch\u1EE7"
+              'Trang ch\u1EE7'
             ),
             _react2.default.createElement(
-              "span",
+              'span',
               null,
-              "\xBB \u0110\u0103ng nh\u1EADp"
+              '\xBB \u0110\u0103ng nh\u1EADp'
             )
           )
         ),
-        _react2.default.createElement("div", { className: "clearfix" })
+        _react2.default.createElement('div', { className: 'clearfix' })
       );
     }
   }]);

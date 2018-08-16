@@ -1,5 +1,7 @@
 import React from 'react'
 
+import {Link} from 'react-router-dom'
+
 
 class MultiMenu extends React.Component {
     render(){
@@ -12,7 +14,7 @@ class MultiMenu extends React.Component {
               <ul>
                 <li>
                   <a href="#">
-                    <h4>Làm đẹp</h4>
+                    <h4><Link to={'/xu-nghe'}>Trang chủ</Link></h4>
                     <h5>Mỹ phẩm ...</h5>
                   </a>
                   <div className="menu-dropdown-sub">
@@ -63,7 +65,7 @@ class MultiMenu extends React.Component {
                 </li>
                 <li>
                   <a href="#">
-                    <h4>Sức khỏe</h4>
+                    <h4><Link to={'/tin-tuc'}>Tin tức</Link></h4>
                     <h5>Thực phẩm chức năng ...</h5>
                   </a>
                   <div className="menu-dropdown-sub">
@@ -114,7 +116,7 @@ class MultiMenu extends React.Component {
                 </li>
                 <li>
                   <a href="#">
-                    <h4>Thể thao</h4>
+                    <h4><Link to={'/chi-tiet-san-pham'}>chi tiết sản phẩm</Link></h4>
                     <h5>Giầy đá bóng, vợt tennis ...</h5>
                   </a>
                   <div className="menu-dropdown-sub">
@@ -165,7 +167,7 @@ class MultiMenu extends React.Component {
                 </li>
                 <li>
                   <a href="#">
-                    <h4>Gia dụng</h4>
+                    <h4><Link to={'/thong-tin-chi-tiet'}>Thông tin chi tiết</Link></h4>
                     <h5>Bếp, tủ ...</h5>
                   </a>
                   <div className="menu-dropdown-sub">
@@ -216,7 +218,7 @@ class MultiMenu extends React.Component {
                 </li>
                 <li>
                   <a href="#">
-                    <h4>Thiết bị văn phòng</h4>
+                    <h4><Link to={'/lien-he'}>Liên hệ</Link></h4>
                     <h5>Máy tính, máy in...</h5>
                   </a>
                   <div className="menu-dropdown-sub">
