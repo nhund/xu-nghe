@@ -27,4 +27,11 @@ app.get("/chi-tiet-san-pham", function (req, res) {
     res.render("index.ejs",{title:"chi-tiet-san-pham"})
 });
 
+app.get("/dang-nhap", function (req, res) {
+    res.render("index.ejs",{title:"dang nhap"})
+});
+app.get("/dang-ki", function (req, res) {
+    res.render("index.ejs",{title:"dang ki"})
+});
+
 app.listen(port,()=>{console.log('listen port:'+port)});

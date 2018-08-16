@@ -8,6 +8,8 @@ import News from '../src/components/news/News'
 import Contact from '../src/components/contact/contact'
 import DetailNews from '../src/components/news/DetailNews'
 import DetailProduct from '../src/components/product/DetailProduct'
+import Login from '../src/components/share/auth/Login'
+import Register from '../src/components/share/auth/Register'
 
 const PrivateRoute = ({ component: Component, ...rest }) => (
   <Route
@@ -27,6 +29,8 @@ const App = () => (
               <PrivateRoute path='/lien-he' component={Contact} />
               <PrivateRoute path='/chi-tiet' component={DetailNews} />
               <PrivateRoute path='/chi-tiet-san-pham' component={DetailProduct} />
+              <PrivateRoute path='/dang-nhap' component={Login} />
+              <PrivateRoute path='/dang-ki' component={Register} />
             </div>
         </Router>
     </Provider>

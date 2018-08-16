@@ -1,5 +1,7 @@
 import React from 'react';
 
+import {Link} from 'react-router-dom';
+
 class TopMenu  extends React.Component {
 
     constructor(props){
@@ -12,7 +14,7 @@ class TopMenu  extends React.Component {
             <div className="row">
               <div className="top-left">
                 <div className="register">
-                  Hi! <a href="#">Đăng nhập</a> hoặc <a href="#">Đăng ký</a>
+                  Hi! <Link to={'/dang-nhap'}>Đăng nhập</Link> hoặc <Link to={'/dang-ki'}>Đăng ký</Link>
                 </div>
                 <div className="top-sale">
                   <a href="#">Giảm giá trong ngày!</a>
