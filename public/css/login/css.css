@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*winget*/
+.winget{
+	position: relative;
+	z-index:2;
+    overflow: hidden;
+}
+.winget-title{
+	height:43px;
+	background:#d31e44;
+	-moz-border-radius:3px 3px 0 0;
+	-webkit-border-radius:3px 3px 0 0;
+	border-radius:3px 3px 0 0;
+}
+.winget-title .lb-name{
+	float:left;
+	margin:14px 0 0 10px;
+	font-size:18px;
+	color:#fff;
+	font-family:dnad;
+	text-transform:uppercase;
+	padding:1px 0 1px 20px;
+}
+.winget-title .view-more{
+	float:right;
+	font-weight:normal;
+	margin:14px 12px 0 0;
+	color:#fff;
+}
+.winget-content{
+}
+.winget-orange .winget-content{
+}
+.winget-orange .winget-title .lb-name{
+	background:none;
+	padding:0 0 0 15px;
+	margin:0;
+	line-height:44px;
+}
+.winget:before, .winget:after{
+  	z-index: -1;
+  	position: absolute;
+  	content: "";
+  	bottom: 15px;
+  	left: 10px;
+  	width: 50%;
+  	top: 80%;
+}
+.winget:after{
+  	-webkit-transform: rotate(3deg);
+  	-moz-transform: rotate(3deg);
+  	-o-transform: rotate(3deg);
+  	-ms-transform: rotate(3deg);
+  	transform: rotate(3deg);
+  	right: 10px;
+  	left: auto;
+}
+/*end winget*/
+.winget-content{
+	min-height:58px;
+}
+/**************/
+
+.bidendtime-slider{
+}
+.bidendtime-slider li{
+	list-style:none;
+	float:left;
+	padding:0 6px 0 6px;
+}
+/*************/
+.winget{
+	padding:20px 0;
+}
+
+

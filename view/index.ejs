@@ -1,0 +1,433 @@
+<html>
+<head>
+    <title>Xứ nghệ</title>
+    <link href="fonts/fonts.css" rel="stylesheet" type="text/css">
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href="css/viewport.css" rel="stylesheet" type="text/css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- banner -->
+    <link rel="stylesheet" href="css/responsiveslides.css">
+    <link rel="stylesheet" href="css/demo.css">
+  
+    <script src="js/responsiveslides.min.js"></script>
+
+    <link href="css/login/base.css" rel="stylesheet" type="text/css">
+    <link href="css/login/styles.css" rel="stylesheet" type="text/css">
+
+    <!-- search -->
+    <link rel="stylesheet" type="text/css" href="css/login/style.css" />
+    <script src="js/modernizr.custom.js"></script>
+
+    <script type="text/javascript">
+	
+      function DropDown(el) {
+        this.dd = el;
+        this.placeholder = this.dd.children('span');
+        this.opts = this.dd.find('ul.dropdown > li');
+        this.val = '';
+        this.index = -1;
+        this.initEvents();
+      }
+      DropDown.prototype = {
+        initEvents : function() {
+          var obj = this;
+    
+          obj.dd.on('click', function(event){
+            $(this).toggleClass('active');
+            return false;
+          });
+    
+          obj.opts.on('click',function(){
+            var opt = $(this);
+            obj.val = opt.text();
+            obj.index = opt.index();
+            obj.placeholder.text(obj.val);
+          });
+        },
+        getValue : function() {
+          return this.val;
+        },
+        getIndex : function() {
+          return this.index;
+        }
+      }
+    
+      $(function() {
+    
+        var dd = new DropDown( $('#dd') );
+    
+        $(document).click(function() {
+          // all dropdowns
+          $('.wrapper-dropdown-3').removeClass('active');
+        });
+    
+      });
+    
+    </script>
+
+<script type="text/javascript" src="js/login/jquery-ui.js"></script>
+    <script type="text/javascript" src="js/login/slimScroll.js"></script>
+
+    <script type="text/javascript">
+      $(function(){
+        $('#scroll').slimscroll({
+          width: '99%',
+          railVisible: true,
+          alwaysVisible: true,
+          railColor: '#ccc',
+          opacity: 1,
+          color: '#d7d7d7'
+        });
+        //scrolling buttons test
+        $('#scrollDown').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '50px' });
+        });
+        $('#scrollUp').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '-50px' });
+        });
+        //no initial content
+        var somecontent = "";
+        $('#noinitialcontent').slimScroll({ 
+          width: '300px',
+          alwaysVisible: true
+        }).html(somecontent);
+        
+        //not long enough test
+        $('#notlongenough').slimScroll({ width:'400px', height:'300px' });
+        
+      });
+      $(function(){
+        $('#scroll-1').slimscroll({
+          width: '99%',
+          railVisible: true,
+          alwaysVisible: true,
+          railColor: '#ccc',
+          opacity: 1,
+          color: '#d7d7d7'
+        });
+        //scrolling buttons test
+        $('#scrollDown').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '50px' });
+        });
+        $('#scrollUp').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '-50px' });
+        });
+        //no initial content
+        var somecontent = "";
+        $('#noinitialcontent').slimScroll({ 
+          width: '300px',
+          alwaysVisible: true
+        }).html(somecontent);
+        
+        //not long enough test
+        $('#notlongenough').slimScroll({ width:'400px', height:'300px' });
+        
+      });
+      $(function(){
+        $('#scroll-2').slimscroll({
+          width: '99%',
+          railVisible: true,
+          alwaysVisible: true,
+          railColor: '#ccc',
+          opacity: 1,
+          color: '#d7d7d7'
+        });
+        //scrolling buttons test
+        $('#scrollDown').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '50px' });
+        });
+        $('#scrollUp').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '-50px' });
+        });
+        //no initial content
+        var somecontent = "";
+        $('#noinitialcontent').slimScroll({ 
+          width: '300px',
+          alwaysVisible: true
+        }).html(somecontent);
+        
+        //not long enough test
+        $('#notlongenough').slimScroll({ width:'400px', height:'300px' });
+        
+      });
+      $(function(){
+        $('#scroll-3').slimscroll({
+          width: '99%',
+          railVisible: true,
+          alwaysVisible: true,
+          railColor: '#ccc',
+          opacity: 1,
+          color: '#d7d7d7'
+        });
+        //scrolling buttons test
+        $('#scrollDown').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '50px' });
+        });
+        $('#scrollUp').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '-50px' });
+        });
+        //no initial content
+        var somecontent = "";
+        $('#noinitialcontent').slimScroll({ 
+          width: '300px',
+          alwaysVisible: true
+        }).html(somecontent);
+        
+        //not long enough test
+        $('#notlongenough').slimScroll({ width:'400px', height:'300px' });
+        
+      });
+      $(function(){
+        $('#scroll-4').slimscroll({
+          width: '99%',
+          railVisible: true,
+          alwaysVisible: true,
+          railColor: '#ccc',
+          opacity: 1,
+          color: '#d7d7d7'
+        });
+        //scrolling buttons test
+        $('#scrollDown').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '50px' });
+        });
+        $('#scrollUp').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '-50px' });
+        });
+        //no initial content
+        var somecontent = "";
+        $('#noinitialcontent').slimScroll({ 
+          width: '300px',
+          alwaysVisible: true
+        }).html(somecontent);
+        
+        //not long enough test
+        $('#notlongenough').slimScroll({ width:'400px', height:'300px' });
+        
+      });
+      $(function(){
+        $('#scroll-5').slimscroll({
+          width: '99%',
+          railVisible: true,
+          alwaysVisible: true,
+          railColor: '#ccc',
+          opacity: 1,
+          color: '#d7d7d7'
+        });
+        //scrolling buttons test
+        $('#scrollDown').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '50px' });
+        });
+        $('#scrollUp').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '-50px' });
+        });
+        //no initial content
+        var somecontent = "";
+        $('#noinitialcontent').slimScroll({ 
+          width: '300px',
+          alwaysVisible: true
+        }).html(somecontent);
+        
+        //not long enough test
+        $('#notlongenough').slimScroll({ width:'400px', height:'300px' });
+        
+      });
+      $(function(){
+        $('#scroll-6').slimscroll({
+          width: '99%',
+          railVisible: true,
+          alwaysVisible: true,
+          railColor: '#ccc',
+          opacity: 1,
+          color: '#d7d7d7'
+        });
+        //scrolling buttons test
+        $('#scrollDown').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '50px' });
+        });
+        $('#scrollUp').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '-50px' });
+        });
+        //no initial content
+        var somecontent = "";
+        $('#noinitialcontent').slimScroll({ 
+          width: '300px',
+          alwaysVisible: true
+        }).html(somecontent);
+        
+        //not long enough test
+        $('#notlongenough').slimScroll({ width:'400px', height:'300px' });
+        
+      });
+      $(function(){
+        $('.scroll').slimscroll({
+          width: '99%',
+          railVisible: true,
+          alwaysVisible: true,
+          railColor: '#ccc',
+          opacity: 1,
+          color: '#d7d7d7'
+        });
+        //scrolling buttons test
+        $('#scrollDown').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '50px' });
+        });
+        $('#scrollUp').click(function(){
+          $('#testrailalwaysvisible').slimScroll({ scroll: '-50px' });
+        });
+        //no initial content
+        var somecontent = "";
+        $('#noinitialcontent').slimScroll({ 
+          width: '300px',
+          alwaysVisible: true
+        }).html(somecontent);
+        
+        //not long enough test
+        $('#notlongenough').slimScroll({ width:'400px', height:'300px' });
+        
+      });
+    </script>
+  <!-- end slimScroll -->
+  <script>
+  $(window).scroll(function(){
+        if ($(this).scrollTop() > 36) {
+            $('.bg-navigation').addClass('fixed');
+        } else {
+            $('.bg-navigation').removeClass('fixed');
+        }
+    });
+  </script>
+  
+
+    <link href="css/login/cloud-zoom.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/login/cloud-zoom.1.0.2.min.js"></script>
+
+<script type="text/javascript" language="javascript">
+  function GoSubject(){
+    document.getElementById("idContent").style.display="none";
+    document.getElementById("idContent1").style.display="";
+    checkSubject=true;checkTopic=false;}
+  function GoTopic(){
+    document.getElementById("idContent1").style.display="none";
+    document.getElementById("idContent").style.display="";
+    checkSubject=false;checkTopic=true;}
+</script>
+<script type="text/javascript" src="js/login/tvsi.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		initvsi();
+	});
+</script>
+
+<link href="css/login/viewport.css" rel="stylesheet" type="text/css">
+<link href="css/login/jquery.mmenu.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/login/jquery.mmenu.js"></script>
+  <script type="text/javascript">
+      $(function() {
+          $('nav#menu').mmenu();
+      });
+  </script>
+
+
+    <script>
+      // You can also use "$(window).load(function() {"
+      $(function () {
+        $("#slider1").responsiveSlides({
+          speed: 800,
+          nav: true,
+          namespace: "callbacks",
+          before: function () {
+            $('.events').append("<li>before event fired.</li>");
+          },
+          after: function () {
+            $('.events').append("<li>after event fired.</li>");
+          }
+        });
+      
+      });
+    </script>
+    <script src="owl-carousel/owl.carousel.min.js"></script>
+
+    <script>
+      // $(document).ready(function() {
+      //   $("#owl-example").owlCarousel({
+      //   autoPlay: 3000,
+      //   items : 5,
+      //   itemsDesktop : [1199,3],
+      //   itemsDesktopSmall : [979,3]
+      //   });
+      
+      // });
+      // $(document).ready(function() {
+      //   $("#owl-example-1").owlCarousel({
+      //   autoPlay: 3000,
+      //   items : 5,
+      //   itemsDesktop : [1199,3],
+      //   itemsDesktopSmall : [979,3]
+      //   });
+      
+      // });
+      </script>
+
+    <script>
+      // $(document).ready(function($) {
+      //   var owl = $("#owl-example");
+      //   $("#owl-example").owlCarousel();
+      //   $("#next").click(function(){
+      //     owl.trigger('owl.next');
+      //     })
+      //     $("#prev").click(function(){
+      //     owl.trigger('owl.prev');
+      //     })
+      // });
+      // $("body").data("page", "frontpage");
+      // $(document).ready(function($) {
+      //   var owl = $("#owl-example-1");
+      //   $("#owl-example-1").owlCarousel();
+      //   $("#next-1").click(function(){
+      //     owl.trigger('owl.next');
+      //     })
+      //     $("#prev-1").click(function(){
+      //     owl.trigger('owl.prev');
+      //     })
+      // });
+      // $("body").data("page", "frontpage");
+      
+
+        $(document).ready(function() {
+            $("#owl-demo").owlCarousel({
+            itemsCustom : [
+              [0, 2],
+              [450, 2],
+              [600, 3],
+              [768, 4],
+              [980, 5],
+              [1200, 5],
+              [1400, 5],
+              [1600, 5]
+            ],
+            slideSpeed : 1000,
+            navigation : true
+          });
+        });
+    </script>
+      <link href="owl-carousel/owl.carousel.css" rel="stylesheet">
+      <link href="owl-carousel/owl.theme.css" rel="stylesheet">
+  <script type="text/javascript" src="js/login/top.js"></script>
+
+ 
+    <script src="js/common.js"></script>
+    
+    
+</head>
+<body>
+
+<div id="root"></div>
+<script src="bundle.js"></script>
+
+<script src="js/imagesloaded.pkgd.min.js"></script>
+<script src="js/masonry.pkgd.min.js"></script>
+<script src="js/cbpGridGallery.js"></script>
+</body>
+</html>

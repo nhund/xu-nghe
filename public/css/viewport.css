@@ -1,0 +1,214 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* --------------------------- // max-width: 1024px // ---------------------------------*/
+@media (max-width: 1024px) {
+.topNav .logo {
+	max-width:220px; 
+	padding:10px 0;
+}
+.topNav .gNav {
+	padding: 12px 0;
+}
+.topNav .gNav ul li {
+	padding:0 15px;
+}
+.topNav .gNav ul li a {
+	font-size:14px;
+}
+.banner .banner-txt {
+	margin:12px 0 0;
+}
+.head-tlt {
+	height:180px;
+}
+
+}
+
+/* --------------------------- // max-width: 980px // ---------------------------------*/
+@media (max-width: 980px) {
+.banner .banner-txt p {
+	height:20px;
+	overflow:hidden;
+}
+.project-main h2 {
+	margin:0 0 12px;
+}
+.project-main img {
+	width:60%;
+}
+.project ul li .project-txt h2 {
+	font-size:24px;
+}
+
+}
+/* --------------------------- // max-width: 767px // ---------------------------------*/
+@media (max-width: 767px) {
+.top .mail-phone a {
+	margin-right:6px;
+}
+.topNav .navbar-button,
+.topNav .gNav button.close_me {
+	display:block;
+}
+.topNav .gNav {
+	position:fixed;
+	left:-100%;
+	top:0;
+	width:100%;
+	height:100%;
+	background:rgba(0,0,0,0.5);
+	float:none;
+	transition:400ms all;
+	z-index:10;
+}
+.topNav .gNav ul {
+	position:absolute;
+	top:0;
+	left:0;
+	width:220px;
+	height:100%;
+	overflow-y:auto;
+	background:#fff;
+}
+.topNav .gNav ul li {
+	float:none;
+	padding:0;
+	border-bottom:1px #ddd dashed;
+}
+.topNav .gNav ul li a {
+	line-height:30px;
+	padding: 8px 12px;
+}
+.banner-news {
+	display:none;
+}
+.list-col-3 ul li {
+	width:50%;
+}
+.list-col-3 ul li:last-child {
+	width:100%;
+}
+.list-col-3 ul li:nth-of-type(3n+1) {
+	clear:none;
+}
+.list-col-3 ul li:nth-of-type(2n+1) {
+	clear:both;
+}
+.project-main img {
+	margin:0 0 15px;
+	width:100%;
+}
+.cooperate .cooperate-left,
+.cooperate .cooperate-right {
+	width:100%;
+}
+.cooperate-txt {
+	margin-top:20px;
+	text-align:center;
+}
+.cooperate-txt .tlt {
+	background-position: center bottom;
+}
+#footer .footer-left,
+#footer .footer-right,
+.contact .contact-left,
+.contact .contact-right,
+.project-detail-img,
+.project-detail-txt,
+.cooperation-detail .cooperation-img, 
+.cooperation-detail .cooperation-txt {
+	width:100%;
+}
+.project ul li .project-txt p {
+	height:40px;
+}
+.project-detail-txt {
+	padding:10px 0 0;
+}
+
+}
+/* ---------------------------------------------------------- max-width: 640px ---------------------------------*/
+@media (max-width: 640px) {
+.top .colTop-left, 
+.top .colTop-right {
+	width:100%;
+	float:none;
+}
+.top .colTop-left {
+	display:none;
+}
+.top .share-language ul {
+	float:none;
+}
+.head-tlt {
+	height:130px;
+}
+.head-tlt .tlt span {
+	font-size:28px;
+}
+
+}
+/* ---------------------------------------------------------- max-width: 600px ---------------------------------*/
+@media (max-width: 600px) {
+.project ul li {
+	padding:10px 0;
+}
+.project ul li .project-img,
+.project ul li .project-txt {
+	width:100%;
+	float:none;
+	padding:0;
+}
+.project ul li:nth-of-type(2n+2) .project-img {
+	float:none;
+}
+.project ul li:nth-of-type(2n+2) .project-txt {
+	padding:0;
+}
+
+}
+/* --------------------------- // max-width: 480px // ---------------------------------*/
+@media (max-width: 480px) {
+.list-col-3 ul li {
+	width:100%;
+}
+#footer .share span {
+	display:block;
+}
+#footer .footer-txt-form h3 {
+	font-size:14px;
+}
+.hotline span {
+	display:block;
+}
+
+}
+
+/* --------------------------- // max-width: 360px // ---------------------------------*/
+@media (max-width: 360px) {
+
+}
+
+/******/
+@media screen and (max-width: 60em) {
+.grid li {
+	width: 33.3%;
+}
+}
+
+@media screen and (max-width: 35em) {
+.grid li {
+	width: 50%;
+}
+}
+
+@media screen and (max-width: 24em) {
+.grid li {
+	width: 100%;
+}
+}
+
+
+
+

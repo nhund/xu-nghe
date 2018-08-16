@@ -1,0 +1,25 @@
+@charset "utf-8";
+.cloud-zoom-lens {border: 4px solid #888;margin:-4px;background-color:#fff;cursor:move;}
+.cloud-zoom-title {font-family:Arial, Helvetica, sans-serif;position:absolute !important;background-color:#000;color:#fff;padding:3px;width:100%;text-align:center;font-weight:bold;font-size:10px;top:0px;}
+.cloud-zoom-big {border:4px solid #ccc;overflow:hidden;}
+.cloud-zoom-loading {color:white;background:#222;padding:3px;border:1px solid #000;}
+
+
+.tickul li{line-height:24px;}
+/* zoom-section */
+.zoom-section{clear:both;}
+*html .zoom-section{display:inline;clear:both;}
+.zoom-desc{width:100%;margin-bottom:20px;}
+.zoom-small-image{margin-bottom:20px;}
+.zoom-tiny-image{border:1px solid #CCC;margin:0px;}
+.zoom-tiny-image:hover{border:1px solid #C00;}
+
+.zoom-desc img{
+	max-width:80px;
+}
+.zoom-small-image img{
+	max-width:100%;
+}
+.zoom-desc a{
+	margin:0 2px;
+}
